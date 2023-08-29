@@ -1,0 +1,15 @@
+.heart {
+  transform: scale(1.5);
+  padding: 0px 30px;
+}
+.heart:hover {
+  transform: scale(2);
+}
+
+.clicked {
+  color: rgb(248, 58, 90);
+}
+
+.unclicked {
+  color: white;
+}
